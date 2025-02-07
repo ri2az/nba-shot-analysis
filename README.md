@@ -14,8 +14,8 @@ Assurez-vous d'avoir installé **Python 3.8 ou supérieur** ainsi que **pip**.
 
 ### 2️⃣ Cloner le projet
 ```bash
-git clone https://github.com/votre-utilisateur/nom-du-repo.git
-cd nom-du-repo
+git clone https://github.com/ri2az/nba-shot-analysis.git
+cd nba-shot-analysis
 ```
 
 ### 3️⃣ Installer les dépendances
