@@ -55,7 +55,7 @@ Les contributions sont les bienvenues ! 🚀
 5. Créez une **Pull Request**.
 
 ## 📧 Contact
-📩 Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter via [GitHub](https://github.com/votre-utilisateur) !
+📩 Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter via [GitHub](https://github.com/ri2az) !
 
 ---
 
