@@ -29,11 +29,11 @@ streamlit run app.py
 ```
 
 ## 📌 Fonctionnalités
-✅ Sélection d'un joueur NBA et d'une saison.
-✅ Affichage des statistiques détaillées.
-✅ Shot chart interactif avec indication des tirs réussis et manqués.
-✅ Heatmap pour analyser les zones de tirs préférées.
-✅ Graphique du nombre de points en fonction du temps.
+- ✅ Sélection d'un joueur NBA et d'une saison.
+- ✅ Affichage des statistiques détaillées.
+- ✅ Shot chart interactif avec indication des tirs réussis et manqués.
+- ✅ Heatmap pour analyser les zones de tirs préférées.
+- ✅ Graphique du nombre de points en fonction du temps.
 
 
 ## 🛠️ Technologies utilisées
