@@ -28,6 +28,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+### 5️⃣ Lancer l'application sur Streamlit !
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://riaaz-nba.streamlit.app/)
+
 ## 📌 Fonctionnalités
 - ✅ Sélection d'un joueur NBA et d'une saison.
 - ✅ Affichage des statistiques détaillées.
